@@ -1,0 +1,22 @@
+.Health-Chart{
+    border:1px solid black;
+    width:900px;
+    Padding:20px;
+  /*   text-algin:center; */
+    border-collapse:collapse;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
+.details{
+  
+  border: 2px solid ;
+  border-left:hidden;
+  border-right:hidden;
+  border-top:hidden;
+  outline:none;
+  font-family: 'Roboto Mono', monospace;
+  
+}
+.customer-details{
+  margin:20px;
+  margin-top:0;
+}
